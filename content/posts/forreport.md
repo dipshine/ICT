@@ -1,1 +1,0 @@
-This is a Learning Report for Module 1. You can copy the text of this post to create new posts for your weekly learning reports. Pay close attention to the format of the text in this file—changing it too drastically will cause the report to not show up.
