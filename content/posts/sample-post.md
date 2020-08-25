@@ -8,4 +8,3 @@ draft: false
 "I can't manage content using established workflows."
 "I can't identify and employ technologies related to content management."
 "I can't find and use resources for self-directed learning."
-
