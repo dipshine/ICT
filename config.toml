@@ -40,19 +40,16 @@ name = "About"
 weight = 1
 url = "/introduction/"
 
-[params]
 [[menu.main]]
 name = "Dummy annoted definitions page"
 weight = 1
 url = "/Dummy annoted definitions page/"
 
-[params]
 [[menu.main]]
 name = "Dummy resource guide"
 weight = 1
 url = "/Dummy resource guide/"
 
-[params]
 [[menu.main]]
 name = "Dummy walkthough"
 weight = 1
