@@ -1,6 +1,6 @@
 ---
 title: "Dummy Definitions page" 
-date: 2020-08-24T00:00:00-04:00
+date: 2020-09-14T00:00:00-04:00
 draft: false
 ---
 Initiative, cultivate compassion contextualize outcomes. Synergy thought provoking uplift; framework, we must stand up paradigm mobilize. Equal opportunity, shared value co-create and contextualize innovate, green space thought partnership impact investing. Collective impact paradigm, blended value efficient or human-centered we must stand up fairness. Our work philanthropy, shine framework big data support silo. Invest, design thinking catalyze collective impact state of play effective. Agile relief green space, impact game-changer social entrepreneur, triple bottom line ideate corporate social responsibility. Thought leader, our work society emerging efficient, dynamic because then targeted. Milestones, catalyze bandwidth, the effective altruism program area philanthropy. Do-gooder synergy move the needle agile framework. Innovate indicators strategy segmentation unprecedented challenge program areas invest dynamic inspiring. Families agile move the needle, LGBTQ+ compelling humanitarian program area. Thought leader changemaker, strengthening infrastructure citizen-centered framework; scalable circular ecosystem. Silo a shared value, thought partnership ideate. Framework thought leader, targeted unprecedented challenge incubator. Policymaker,.
