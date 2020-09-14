@@ -39,3 +39,21 @@ HUGO_ENABLEGITINFO = "true"
 name = "About"
 weight = 1
 url = "/introduction/"
+
+[params]
+[[menu.main]]
+name = "Introduction"
+weight = 1
+url = "/introduction/"
+
+[params]
+[[menu.main]]
+name = "Introduction"
+weight = 1
+url = "/introduction/"
+
+[params]
+[[menu.main]]
+name = "Introduction"
+weight = 1
+url = "/introduction/"
