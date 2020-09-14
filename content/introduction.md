@@ -5,4 +5,4 @@ draft: false
 ---
 Hello, I am an ***ICT student*** learning how the content management works. My hobbies include cooking, travelling, listening to music. I have recently discovered my habit of meditating to keep me stay positive. 
 
-![a picture of Dipta Lohani](https://gracious-austin-860c61.netlify.app/Dummy Definitions page)
+![a picture of Sea bridge](https://gracious-austin-860c61.netlify.app/Dummy)
