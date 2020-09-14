@@ -42,18 +42,18 @@ url = "/introduction/"
 
 [params]
 [[menu.main]]
-name = "Introduction"
+name = "Dummy annoted definitions page"
 weight = 1
-url = "/introduction/"
+url = "/Dummy annoted definitions page/"
 
 [params]
 [[menu.main]]
-name = "Introduction"
+name = "Dummy resource guide"
 weight = 1
-url = "/introduction/"
+url = "/Dummy resource guide/"
 
 [params]
 [[menu.main]]
-name = "Introduction"
+name = "Dummy walkthough"
 weight = 1
-url = "/introduction/"
+url = "/Dummy walkthough/"
