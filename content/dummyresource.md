@@ -1,5 +1,5 @@
 ---
-title: "Dummy resource guide"
+title: "Dummy Resource Guide"
 date: 2020-09-14T00:00:00-04:00
 draft: false
 ---
