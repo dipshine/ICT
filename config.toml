@@ -42,15 +42,15 @@ url = "/introduction/"
 
 [[menu.main]]
 name = "Dummy annoted definitions page"
-weight = 1
+weight = 2
 url = "/Dummy annoted definitions page/"
 
 [[menu.main]]
 name = "Dummy resource guide"
-weight = 1
+weight = 3
 url = "/Dummy resource guide/"
 
 [[menu.main]]
 name = "Dummy walkthough"
-weight = 1
+weight = 4
 url = "/Dummy walkthough/"
