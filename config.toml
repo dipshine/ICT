@@ -48,9 +48,9 @@ url = "/dummyannoted/"
 [[menu.main]]
 name = "Dummy resource guide"
 weight = 3
-url = "/dummy-resource-guide/"
+url = "/dummyresource/"
 
 [[menu.main]]
 name = "Dummy walkthough"
 weight = 4
-url = "/dummy-walkthough/"
+url = "/dummywalkthough/"
