@@ -4,7 +4,7 @@ date: 2020-09-15T00:00:00-04:00
 draft: false
 ---
 <ol>
-<li>Resources</li>
+<li></li>
 <li></li>
 <li></li>
 </ol>
