@@ -6,9 +6,9 @@ draft: false
 ## Header
 
 <ol>
-<li>List</li>
-<li></li>
-<li></li>
+<li> </li>
+<li> </li>
+<li> </li>
 </ol>
 
 ![a picture of Dipta Lohani](https://gracious-austin-860c61.netlify.app/still-life-2963302_1280.jpg)
