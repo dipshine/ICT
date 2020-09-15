@@ -4,9 +4,9 @@ date: 2020-09-15T00:00:00-04:00
 draft: false
 ---
 <ol>
-<li>1</li>
-<li>2</li>
-<li>3</li>
+<li>Resources</li>
+<li></li>
+<li></li>
 </ol>
 Queso everyone loves cheddar. Boursin brie st. agur blue cheese swiss queso cheesy grin who moved my cheese taleggio. Cream cheese who moved my cheese dolcelatte squirty cheese everyone loves mozzarella camembert de normandie smelly cheese. Red leicester dolcelatte cauliflower cheese.
 
