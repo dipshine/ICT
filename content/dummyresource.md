@@ -1,6 +1,6 @@
 ---
 title: "Dummy resource guide"
-date: 2020-09-15T00:00:00-04:00
+date: 2020-09-14T00:00:00-04:00
 draft: false
 ---
 <ol>
