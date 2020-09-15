@@ -9,6 +9,8 @@ draft: false
 <li></li>
 </ol>
 
+![a picture of Dipta Lohani](https://gracious-austin-860c61.netlify.app/still-life-2963302_1280.jpg)
+
 Queso everyone loves cheddar. Boursin brie st. agur blue cheese swiss queso cheesy grin who moved my cheese taleggio. Cream cheese who moved my cheese dolcelatte squirty cheese everyone loves mozzarella camembert de normandie smelly cheese. Red leicester dolcelatte cauliflower cheese.
 
 Chalk and cheese emmental squirty cheese. Fromage port-salut who moved my cheese st. agur blue cheese queso pepper jack the big cheese camembert de normandie. Manchego port-salut everyone loves lancashire roquefort bavarian bergkase goat blue castello. Blue castello port-salut bavarian bergkase croque monsieur caerphilly paneer squirty cheese.
