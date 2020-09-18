@@ -1,7 +1,7 @@
 baseURL = "https://gracious-austin-860c61.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "hugo-theme-m10c-master"
+theme = "hugo-theme-m10c-master.zip"
 
 [build]
 publish = "public"
