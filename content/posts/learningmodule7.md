@@ -3,7 +3,8 @@ title: "Learning Report for Module 7"
 date: 2020-10-04T00:00:00-04:00
 draft: false
 ---
- > * I can identify and define key concepts in ***(web) content management.*** We learned how we can choose CMS, it's features and how can we customize based on our needs.
+ >  I can identify and define key concepts in ***(web) content management.*** 
+ > * We learned how we can choose CMS, it's features and how can we customize based on our needs.
  >
  > * I can describe and compare content management systems in Week 7. We learned different content management systems, explored lot more of WordPress features than last week. It clearly made us differentiate both Hugo and WordPress in more specific ways.
  >
