@@ -17,4 +17,4 @@ draft: false
  > * As mentioned, I explored Drupal and WIX. With that being said, our group planned how we are going to do our mmid-semester projects and when we are going to submit it.
  >
  >  I can find and use resources for self-directed learning. 
- > * For this, I went to searched articles to find more about the CMS that we are learning.
+ > * For this, I searched for different articles to find more about the CMS that we are learning.
