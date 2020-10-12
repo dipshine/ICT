@@ -4,7 +4,7 @@ date: 2020-10-11T00:00:00-04:00
 draft: false
 ---
  >  I can identify and define key concepts in ***(web) content management.*** 
- >I learned how we can compare and categorize different CMS but it is something that is really hard to do. 
+ > *I learned how we can compare and categorize different CMS but it is something that is really hard to do. 
  >
  >  I can describe and compare content management systems in Week 8. 
  > * I explored different CMS out there like Drupla and WIX. 
