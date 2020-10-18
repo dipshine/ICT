@@ -5,16 +5,16 @@ draft: false
 ---
  > 
  >  I can identify and define key concepts in ***(web) content management.*** 
- > * This week, I learned about the importance of feedback and the steps to make it effective. For example: Establishing the Standard, Describing the Situation, and Providing Next Steps
+ > * This week, I learned about the importance of feedback and the steps to make it effective. For example: Establishing the Standard, Describing the Situation, and Providing Next Steps.
  >
  >  I can describe and compare content management systems in Week 9. 
- > * I explored 
+ > * This week, I was assigned to create walkthrough to add medias on WordPress site. So, I explored different techniques and applied to see if it would "actually" work. Basically lots of trial & error and I'm happy with what I learned. 
  >
  > I can manage content using established workflows in Week 9. 
  > * This week, we had a lot of things to complete. As usual, we assigned tasks through planner. We check marked whatever we completed so far that way, it helped everyone know how we are doing.
  >
  > I can identify and employ technologies related to content management in Week 9.
- > * As mentioned, I 
+ > * This week, I basically learned to multitask. With being developer on one side, writing the content for my walkthrough, coding the weekly blog post on the other side. 
  >
  >  I can find and use resources for self-directed learning. 
- > * For this, I searched for different articles to find more about the CMS that we are learning.
+ > * For this, I searched different "how to" videos on YouTube. I tried it, I failed, I retried it, went to different blogs related to WordPress. 
