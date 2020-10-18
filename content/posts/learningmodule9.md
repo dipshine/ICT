@@ -11,10 +11,10 @@ draft: false
  > * This week, I was assigned to create walkthrough to add medias on WordPress site. So, I explored different techniques and applied to see if it would "actually" work. Basically lots of trial & error and I'm happy with what I learned. 
  >
  > I can manage content using established workflows in Week 9. 
- > * This week, we had a lot of things to complete. As usual, we assigned tasks through planner. We check marked whatever we completed so far that way, it helped everyone know how we are doing.
+ > * This week, we had a lot of things to complete. As usual, we assigned tasks through planner. We check marked whatever we completed so far that way, it helped everyone know how we are doing and what needs to be re-done.
  >
  > I can identify and employ technologies related to content management in Week 9.
- > * This week, I basically learned to multitask. With being developer on one side, writing the content for my walkthrough, coding the weekly blog post on the other side. 
+ > * This week, I basically learned to multitask. With being developer on one side, writing the content for my walkthrough, coding the weekly blog post on the other side, I knew what I want and how I was going to do it.
  >
  >  I can find and use resources for self-directed learning. 
- > * For this, I searched different "how to" videos on YouTube. I tried it, I failed, I retried it, went to different blogs related to WordPress. 
+ > * For this, I searched different "how to" videos on YouTube. I tried it, I failed, I retried it, went to different blogs related to WordPress. Overall, it was a fun-learning experience.
