@@ -14,7 +14,7 @@ draft: false
  > * This week, like every week, our group created our workflow through planner and assigned our roles. Everyone worked for their assigned tasks as per their leisure time and planned to submit the project before the deadline.
  >
  > I can **identify and employ** technologies related to content management in Week 10.
- > * This week, I now can differentiate the content modeling on WordPress and Hugo. 
+ > * I now can differentiate the content modeling on WordPress and Hugo and will select the cms as per my needs. 
  >
  >  I can **find and use** resources for self-directed learning. 
- > * I think compared to other weeks, this week, we only had few readings. The only resource I used this week was the course readings.
+ > * Compared to other weeks, this week, we only had few readings. The only resource I used this week was the course readings.
