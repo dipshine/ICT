@@ -17,4 +17,4 @@ draft: false
  > * I now can differentiate the content modeling on WordPress and Hugo and will select the cms as per my needs. 
  >
  >  I can **find and use** resources for self-directed learning. 
- > * Compared to other weeks, this week, we only had few readings. The only resource I used this week was the course readings.
+ > * Compared to other weeks, we only had few readings this week. The only resource I used this week was the course readings.
