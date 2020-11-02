@@ -5,7 +5,7 @@ draft: false
 ---
  > 
  >  I can **identify and define** key concepts in ***(web) content management.*** 
- > * This week, I learned what content aggregation, content shapes, and also content geography.
+ > * This week, I learned what content aggregation, content shapes, and also content geography is.
  >
  >  I can **describe and compare** content management systems in Week 11. 
  > * This week, I learned the menuing in content management and differences between implicit and explicit.
